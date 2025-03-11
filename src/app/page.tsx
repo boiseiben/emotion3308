@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Button from '@mui/material/Button';
+import Box from '@mui/material/Box';
 
 export default function Home() {
   return (
@@ -9,6 +10,7 @@ export default function Home() {
         the next line to the end of the line below it.
         */}
         <Button>Problem Causer</Button>
+        <Box><Button>Wrapped - not an issue</Button></Box>
         <Image
           className="dark:invert"
           src="/next.svg"
