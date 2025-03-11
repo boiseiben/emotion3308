@@ -1,3 +1,5 @@
+# This repo exists in support of [this issue resolution](https://github.com/emotion-js/emotion/issues/3308#issuecomment-2714648198).
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
